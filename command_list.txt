@@ -1,0 +1,50 @@
+git switch -c develop
+git status
+git push origin develop
+git status
+main_test dosyasn develop brachten maine taŸma
+git switch main
+git merge develop
+git commit -m "Develop dalndaki de§iŸiklikler main dalna aktarld"
+git status
+switch develop
+status
+git switch develop
+git rm main_test.text
+git rm main_test.txt
+git commit -m "main_test.txt dosyas silindi."
+git push origin develop
+git switch main
+echo. main_test.txt
+git add main_test.txt
+git commit -m "main_test.txt dosyas oluŸturuldu."
+git push origin main
+git switch develop
+status
+git add develop_test.txt
+echo. develop_test.txt
+git add develop_test.txt
+echo. develop_test.txt
+git add develop_test.txt
+dir
+git status
+echo. > develop_test.txt
+git add develop_test.txt
+git commit -m "develop_test.txt dosyas oluŸturuldu."
+git push origin develop
+git status
+git add .develop_test.txt
+git add .
+git commit -m "develop_test.txt dosyasnda de§iŸiklik yapld."
+git status
+git add .
+git commit -m "develop_test.txt dosyasnda de§iŸiklik yapld."
+git push origin develop
+git switch main
+git status
+git merge develop
+git status
+git push origin main
+git log
+git BASH
+doskey /history > command_list.txt
